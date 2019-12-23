@@ -1,6 +1,8 @@
 # 12f683-led-blink
 
-LED blink
+## mcu
+
+pic12f683
 
 ## pin assignments
 
