@@ -8,7 +8,7 @@ pic12f683
 
 |pin|assignment|
 |:--|:--|
-|GP0|out (LED)|
+|GP0|out (led)|
 |GP1|not used|
 |GP2|not used|
 |GP3|not used|
